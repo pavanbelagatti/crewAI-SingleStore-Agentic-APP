@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments & env files
+.venv/
+venv/
+.env
+.env.*
+
+# Node
+node_modules/
+
+# OS/editor
+.DS_Store
+*.swp
+
+# Playwright cache
+playwright/.cache/
+EOF
